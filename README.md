@@ -2,6 +2,7 @@
 
 Hi !
 Welcom to my Github profile
+<img src="https://avatars.githubusercontent.com/u/168962956?v=4" alt="Photo de Matthias" srcset="">
 <hr>
 ## About me
 
