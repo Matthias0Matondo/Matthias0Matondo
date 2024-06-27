@@ -1,12 +1,11 @@
 ## Matthias Matondo 👋
 
-Salut !
-Bienvenue sur mon profil GitHub
+Hi !
+Welcom to my Github profile
 <hr>
-## Apropos de moi
-Je suis Matthias Matondo, ingénieur logiciel avec un diplôme en informatique et une expérience en développement de logiciels, conception des bases de données et enseignement
-Je conçois et développe les applications (web et desktop)
-Diplômé en Informatique de Gestion à l'Institut Supérieur d'Informatique Chaminade (ISIC 2023)
+## About me
+
+I'm Matthias Matondo, a software engineer with a degree in computer science and experience in software development, database design, and teaching. I design and develop web and desktop applications. I graduated in Management Computer Science from the Institut Supérieur d'Informatique Chaminade (ISIC) in 2023.
 
 # Ma Pile Technologique
 
