@@ -2,6 +2,7 @@
 
 Salut !
 Bienvenue sur mon profil GitHub
+<hr>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
